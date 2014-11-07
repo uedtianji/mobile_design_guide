@@ -1,4 +1,4 @@
-移动页面设计指南
+移动单页设计指南
 =======
 本指南只针对现在流行的交互单页设计，且以微信中浏览为准，分辨率上以iphone手机为基准。  
 ![交互单页](https://raw.githubusercontent.com/uedtianji/mobile_design_guide/master/img/1.gif)  
